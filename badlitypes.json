@@ -1,0 +1,35 @@
+{
+    "keys": ["Cotton", "Polyester", "PC", "Other", "All"],
+    "details":{
+        "Cotton":{
+            "en": "Cotton",
+            "ur": "ur me cotton",
+            "hi": "hi me cotton"
+    
+        },
+        "Polyester":{
+            "en": "Polyester",
+            "ur": "ur me Polyester",
+            "hi": "hi me Polyester"
+    
+        },
+        "PC":{
+            "en": "PC",
+            "ur": "ur me PC",
+            "hi": "hi me PC"
+    
+        },
+        "All":{
+            "en": "All",
+            "ur": "ur me All",
+            "hi": "hi me All"
+    
+        },
+        "Other":{
+            "en": "Other",
+            "ur": "ur me Other",
+            "hi": "hi me Other"
+    
+        }
+    } 
+}
