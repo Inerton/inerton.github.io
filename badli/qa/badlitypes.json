@@ -1,1 +1,26 @@
-
+{
+  "keys": ["Cotton", "Polyester", "PC", "Other", "All"],
+  "details": {
+    "en": {
+      "Cotton": "Cotton",
+      "Polyester": "Polyester",
+      "PC": "PC",
+      "Other": "Other",
+      "All": "All"
+    },
+    "ur": {
+      "Cotton": "کاٹن",
+      "Polyester": "پالسٹر",
+      "PC": "پی سی",
+      "Other": "کوئی اور",
+      "All": "کوئی بھی"
+    },
+    "hi": {
+      "Cotton": "कॉटन",
+      "Polyester": "पालिसटर",
+      "PC": "पीसी",
+      "Other": "कोई और",
+      "All": "कोई भी"
+    }
+  }
+}
