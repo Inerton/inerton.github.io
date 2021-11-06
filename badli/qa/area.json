@@ -1,89 +1,152 @@
 {
   "en": {
-    "Malegaon": [
-      "Dayana",
-      "Malda",
-      "Naya Islampura",
-      "Nayapura",
-      "Chandanpuri",
-      "MIDC",
-      "Other"
-    ],
-    "Bhiwandi": [
-      "Bhiwandi"
-    ],
-    "Mumbai": [
-      "Mumbai"
-    ],
-    "Dhule": [
-      "Dhule"
-    ],
-    "Ichalkaranji": [
-      "Ichalkaranji"
-    ],
-    "Shirpur": [
-      "Shirpur"
-    ],
-    "Aurangabad": [
-      "Aurangabad"
-    ]
+    "Malegaon": {
+      "value": "Malegaon",
+      "area": {
+        "Dayana": "Dayana",
+        "Malda": "Malda",
+        "Naya Islampura": "Naya Islampura",
+        "Nayapura": "Nayapura",
+        "Chandanpuri": "Chandanpuri",
+        "MIDC": "MIDC",
+        "Other": "Other"
+      }
+    },
+    "Bhiwandi": {
+      "value": "Bhiwandi",
+      "area": {
+        "Bhiwandi": "Bhiwandi"
+      }
+    },
+    "Mumbai": {
+      "value": "Mumbai",
+      "area": {
+        "Mumbai": "Mumbai"
+      }
+    },
+    "Dhule": {
+      "value": "Dhule",
+      "area": {
+        "Dhule": "Dhule"
+      }
+    },
+    "Ichalkaranji": {
+      "value": "Ichalkaranji",
+      "area": {
+        "Ichalkaranji": "Ichalkaranji"
+      }
+    },
+    "Shirpur": {
+      "value": "Shirpur",
+      "area": {
+        "Shirpur": "Shirpur"
+      }
+    },
+    "Aurangabad": {
+      "value": "Aurangabad",
+      "area": {
+        "Aurangabad": "Aurangabad"
+      }
+    }
   },
   "ur": {
-    "مالیگاؤں": [
-      "دیانہ",
-      "مالدہ",
-      "نیا اسلامپورہ",
-      "نیا پورہ",
-      "چندنپوری",
-      "MIDC",
-      "کوئی اور"
-    ],
-    "بھیونڈی": [
-      "بھیونڈی"
-    ],
-    "ممبئی": [
-      "ممبئی"
-    ],
-    "دھولیہ": [
-      "دھولیہ"
-    ],
-    "اچل کرنجی": [
-      "اچل کرنجی"
-    ],
-    "شیرپور": [
-      "شیرپور"
-    ],
-    "اورنگآباد": [
-      "اورنگآباد"
-    ]
+    "مالیگاؤں": {
+      "value": "Malegaon",
+      "area": {
+        "دیانہ": "Dayana",
+        "مالدہ": "Malda",
+        "نیا اسلامپورہ": "Naya Islampura",
+        "نیا پورہ": "Nayapura",
+        "چندنپوری": "Chandanpuri",
+        "MIDC": "MIDC",
+        "کوئی اور": "Other"
+      }
+    },
+    "بھیونڈی": {
+      "value": "Bhiwandi",
+      "area": {
+        "بھیونڈی": "Bhiwandi"
+      }
+    },
+    "ممبئی": {
+      "value": "Mumbai",
+      "area": {
+        "ممبئی": "Mumbai"
+      }
+    },
+    "دھولیہ": {
+      "value": "Dhule",
+      "area": {
+        "دھولیہ": "Dhule"
+      }
+    },
+    "اچل کرنجی": {
+      "value": "Ichalkaranji",
+      "area": {
+        "اچل کرنجی": "Ichalkaranji"
+      }
+    },
+    "شیرپور": {
+      "value": "Shirpur",
+      "area": {
+        "شیرپور": "Shirpur"
+      }
+    },
+    "اورنگآباد": {
+      "value": "Aurangabad",
+      "area": {
+        "اورنگآباد": "Aurangabad"
+      }
+    }
   },
   "hi": {
-    "मालेगांव": [
-      "दयाना",
-      "मालदा",
-      "नया इस्लामपुरा",
-      "नयापुरा",
-      "चंदनपुरी",
-      "MIDC",
-      "कोई और"
-    ],
-    "भिवंडी": [
-      "भिवंडी"
-    ],
-    "मुंबई": [
-      "मुंबई"
-    ],
-    "धूलिया": [
-      "धूलिया"
-    ],
-    "इचलकरंजी": [
-      "इचलकरंजी"
-    ],
-    "शीरपुर": [
-      "शीरपुर"
-    ],
-    "औरंगाबाद": [
-      "औरंगाबाद"
-    ]
+    "मालेगांव": {
+      "value": "Malegaon",
+      "area": {
+        "दयाना": "Dayana",
+        "मालदा": "Malda",
+        "नया इस्लामपुरा": "Naya Islampura",
+        "नयापुरा": "Nayapura",
+        "चंदनपुरी": "Chandanpuri",
+        "MIDC": "MIDC",
+        "कोई और": "Other"
+      }
+    },
+    "भिवंडी": {
+      "value": "Bhiwandi",
+      "area": {
+        "भिवंडी": "Bhiwandi"
+      }
+    },
+    "मुंबई": {
+      "value": "Mumbai",
+      "area": {
+        "मुंबई": "Mumbai"
+      }
+    },
+    "धूलिया": {
+      "value": "Dhule",
+      "area": {
+        "धूलिया": "Dhule"
+      }
+    },
+    "इचलकरंजी": {
+      "value": "Ichalkaranji",
+      "area": {
+        "इचलकरंजी": "Ichalkaranji"
+      }
+    },
+    "शीरपुर": {
+      "value": "Shirpur",
+      "area": {
+        "शीरपुर": "Shirpur"
+      }
+    },
+    "औरंगाबाद": {
+      "value": "Aurangabad",
+      "area": {
+        "औरंगाबाद": "Aurangabad"
+      }
+    }
   }
 }
