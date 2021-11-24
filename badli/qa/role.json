@@ -27,6 +27,9 @@
     },
     "JobType": {
         "en": {
+            "All" : {
+                "All": "All"
+            },
             "Karigar": {
                 "All": "All",
                 "Cotton": "Cotton",
@@ -52,6 +55,9 @@
             }
         },
         "ur": {
+            "All" : {
+                "All": "سب"
+            },
             "Karigar": {
                 "All": "سب",
                 "Cotton": "کاتن",
@@ -77,13 +83,15 @@
             }
         },
         "hi": {
+            "All" : {
+                "All": "सभी"
+            },
             "Karigar": {
                 "All": "सभी",
                 "Cotton": "कॉटन",
                 "Polyester": "पॉलिएस्टर",
                 "PC": "पीसी",
-                "Rangeen": "रंगीन",
-                "All": "सभी"
+                "Rangeen": "रंगीन"
             },
             "Metha": {
                 "All": "सभी",
