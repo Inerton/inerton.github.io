@@ -1,5 +1,7 @@
 {
 "URI" : "aHR0cHM6Ly9iYWRsaXByZHNlYy5oZXJva3VhcHAuY29tLw==",
 "VERSION" : "1.0.8",
-"FORCE_UPDATE" : true
+"FORCE_UPDATE" : true,
+ "ADV_IMAGE" : "http://www.inerton.in/img/Inerton-logo-center.png",
+ "ADV_URL" : "https://www.inerton.in/"
 }
