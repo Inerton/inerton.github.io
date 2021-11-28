@@ -4,11 +4,11 @@
   "FORCE_UPDATE": true,
   "ADV": [
     {
-      "ADV_IMAGE": "http://www.inerton.in/img/Inerton-logo-center.png",
+      "ADV_IMAGE": "https://www.inerton.in/badli/qa/image/01.png",
       "ADV_URL": "https://www.inerton.in/"
     },
     {
-      "ADV_IMAGE": "http://www.inerton.in/img/Inerton-logo-center.png",
+      "ADV_IMAGE": "https://www.inerton.in/badli/qa/image/02.png",
       "ADV_URL": "https://www.inerton.in/"
     }
   ]
