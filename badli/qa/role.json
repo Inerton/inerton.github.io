@@ -1,7 +1,6 @@
 {
     "Role": {
         "en": {
-            "All": "All",
             "Karigar": "Karigar",
             "Metha": "Metha",
             "Rach": "Rach",
@@ -9,7 +8,6 @@
             "Tarashan": "Tarashan"
         },
         "ur": {
-            "All": "سب",
             "Karigar": "کاریگر",
             "Metha": "میتھا",
             "Rach": "رچ",
@@ -17,7 +15,6 @@
             "Tarashan": "تراشن"
         },
         "hi": {
-            "All": "सभी",
             "Karigar": "कारीगर",
             "Metha": "मेथा",
             "Rach": "रच",
@@ -27,86 +24,62 @@
     },
     "JobType": {
         "en": {
-            "All" : {
-                "All": "All"
-            },
             "Karigar": {
-                "All": "All",
                 "Cotton": "Cotton",
                 "Polyester": "Polyester",
                 "PC": "PC",
                 "Rangeen": "Rangeen"
             },
             "Metha": {
-                "All": "All",
                 "Metha": "Metha"
             },
             "Rach": {
-                "All": "All",
                 "Rach": "Rach"
             },
             "Hammal": {
-                "All": "All",
                 "Hammal": "Hammal"
             },
             "Tarashan": {
-                "All": "All",
                 "Tarashan": "Tarashan"
             }
         },
         "ur": {
-            "All" : {
-                "All": "سب"
-            },
             "Karigar": {
-                "All": "سب",
                 "Cotton": "کاتن",
                 "Polyester": "پالشٹر",
                 "PC": "پی سی",
                 "Rangeen": "رنگین"
             },
             "Metha": {
-                "All": "سب",
                 "Metha": "میتھا"
             },
             "Rach": {
-                "All": "سب",
                 "Rach": "رچ"
             },
             "Hammal": {
-                "All": "سب",
                 "Hammal": "حممال"
             },
             "Tarashan": {
-                "All": "سب",
                 "Tarashan": "تراشن"
             }
         },
         "hi": {
-            "All" : {
-                "All": "सभी"
-            },
             "Karigar": {
-                "All": "सभी",
                 "Cotton": "कॉटन",
                 "Polyester": "पॉलिएस्टर",
                 "PC": "पीसी",
                 "Rangeen": "रंगीन"
             },
             "Metha": {
-                "All": "सभी",
                 "Metha": "मेथा"
             },
             "Rach": {
-                "All": "सभी",
                 "Rach": "रच"
             },
             "Hammal": {
-                "All": "सभी",
                 "Hammal": "हम्माल"
             },
             "Tarashan": {
-                "All": "सभी",
                 "Tarashan": "तराशन"
             }
         }
