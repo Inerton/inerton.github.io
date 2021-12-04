@@ -1,4 +1,24 @@
 {
+    "translations": {
+        "کاریگر": "Karigar",
+        "میتھا": "Metha",
+        "رچ": "Rach",
+        "حممال": "Hammal",
+        "تراشن": "Tarashan",
+        "कारीगर": "Karigar",
+        "मेथा": "Metha",
+        "रच": "Rach",
+        "हम्माल": "Hammal",
+        "तराशन": "Tarashan",
+        "کاتن": "Cotton",
+        "پالشٹر": "Polyester",
+        "پی سی": "PC",
+        "رنگین": "Rangeen",
+        "कॉटन": "Cotton",
+        "पॉलिएस्टर": "Polyester",
+        "पीसी": "PC",
+        "रंगीन": "Rangeen"
+    },
     "Role": {
         "en": {
             "Karigar": "Karigar",
