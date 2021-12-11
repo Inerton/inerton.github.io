@@ -19,6 +19,13 @@
         "पीसी": "PC",
         "रंगीन": "Rangeen"
     },
+    "isLoomCountApplicable": {
+        "Karigar": true,
+        "Metha": true,
+        "Rach": false,
+        "Hammal": false,
+        "Tarashan": true
+    },
     "Role": {
         "en": {
             "Karigar": "Karigar",
