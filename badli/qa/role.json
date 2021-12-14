@@ -3,15 +3,15 @@
         "کاریگر": "Karigar",
         "میتھا": "Metha",
         "رچ": "Rach",
-        "حممال": "Hammal",
+        "حمّال": "Hammal",
         "تراشن": "Tarashan",
         "कारीगर": "Karigar",
         "मेथा": "Metha",
         "रच": "Rach",
         "हम्माल": "Hammal",
         "तराशन": "Tarashan",
-        "کاتن": "Cotton",
-        "پالشٹر": "Polyester",
+        "کاٹن": "Cotton",
+        "پالیسٹر": "Polyester",
         "پی سی": "PC",
         "رنگین": "Rangeen",
         "कॉटन": "Cotton",
@@ -38,7 +38,7 @@
             "Karigar": "کاریگر",
             "Metha": "میتھا",
             "Rach": "رچ",
-            "Hammal": "حممال",
+            "Hammal": "حمّال",
             "Tarashan": "تراشن"
         },
         "hi": {
@@ -72,8 +72,8 @@
         },
         "ur": {
             "Karigar": {
-                "Cotton": "کاتن",
-                "Polyester": "پالشٹر",
+                "Cotton": "کاٹن",
+                "Polyester": "پالیسٹر",
                 "PC": "پی سی",
                 "Rangeen": "رنگین"
             },
@@ -84,7 +84,7 @@
                 "Rach": "رچ"
             },
             "Hammal": {
-                "Hammal": "حممال"
+                "Hammal": "حمّال"
             },
             "Tarashan": {
                 "Tarashan": "تراشن"
