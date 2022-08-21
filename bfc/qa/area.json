@@ -1,0 +1,120 @@
+{
+    "city": {
+        "en": {
+            "Malegaon": "Malegaon",
+            "Bhiwandi": "Bhiwandi",
+            "Mumbai": "Mumbai",
+            "Dhule": "Dhule",
+            "Ichalkaranji": "Ichalkaranji",
+            "Shirpur": "Shirpur",
+            "Aurangabad": "Aurangabad"
+        },
+        "ur": {
+            "Malegaon": "مالیگاؤں",
+            "Bhiwandi": "بھیونڈی",
+            "Mumbai": "ممبئی",
+            "Dhule": "دھولیہ",
+            "Ichalkaranji": "اچل کرنجی",
+            "Shirpur": "شیرپور",
+            "Aurangabad": "اورنگ آباد"
+        },
+        "hi": {
+            "Malegaon": "मालेगांव",
+            "Bhiwandi": "भिवंडी",
+            "Mumbai": "मुंबई",
+            "Dhule": "धूलिया",
+            "Ichalkaranji": "इचलकरंजी",
+            "Shirpur": "शीरपुर",
+            "Aurangabad": "औरंगाबाद"
+        }
+    },
+    "area": {
+        "en": {
+            "Malegaon": {
+                "Dayana": "Dayana",
+                "Malda": "Malda",
+                "Naya Islampura": "Naya Islampura",
+                "Nayapura": "Nayapura",
+                "Chandanpuri": "Chandanpuri",
+                "MIDC": "MIDC",
+                "Other": "Other"
+            },
+            "Bhiwandi": {
+                "Bhiwandi": "Bhiwandi"
+            },
+            "Mumbai": {
+                "Mumbai": "Mumbai"
+            },
+            "Dhule": {
+                "Dhule": "Dhule"
+            },
+            "Ichalkaranji": {
+                "Ichalkaranji": "Ichalkaranji"
+            },
+            "Shirpur": {
+                "Shirpur": "Shirpur"
+            },
+            "Aurangabad": {
+                "Aurangabad": "Aurangabad"
+            }
+        },
+        "ur": {
+            "Malegaon": {
+                "Dayana": "دیانہ",
+                "Malda": "مالدہ",
+                "Naya Islampura": "نیا اسلامپورہ",
+                "Nayapura": "نیا پورہ",
+                "Chandanpuri": "چندنپوری",
+                "MIDC": "MIDC",
+                "Other": "کوئی اور"
+            },
+            "Bhiwandi": {
+                "Bhiwandi": "بھیونڈی"
+            },
+            "Mumbai": {
+                "Mumbai": "ممبئی"
+            },
+            "Dhule": {
+                "Dhule": "دھولیہ"
+            },
+            "Ichalkaranji": {
+                "Ichalkaranji": "اچل کرنجی"
+            },
+            "Shirpur": {
+                "Shirpur": "شیرپور"
+            },
+            "Aurangabad": {
+                "Aurangabad": "اورنگ آباد"
+            }
+        },
+        "hi": {
+            "Malegaon": {
+                "Dayana": "दयाना",
+                "Malda": "मालदा",
+                "Naya Islampura": "नया इस्लामपुरा",
+                "Nayapura": "नयापुरा",
+                "Chandanpuri": "चंदनपुरी",
+                "MIDC": "MIDC",
+                "Other": "कोई और"
+            },
+            "Bhiwandi": {
+                "Bhiwandi": "भिवंडी"
+            },
+            "Mumbai": {
+                "Mumbai": "मुंबई"
+            },
+            "Dhule": {
+                "Dhule": "धूलिया"
+            },
+            "Ichalkaranji": {
+                "Ichalkaranji": "इचलकरंजी"
+            },
+            "Shirpur": {
+                "Shirpur": "शीरपुर"
+            },
+            "Aurangabad": {
+                "Aurangabad": "औरंगाबाद"
+            }
+        }
+    }
+}

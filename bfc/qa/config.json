@@ -1,0 +1,16 @@
+{
+  "URI1": "aHR0cHM6Ly9iYWRsaXByZHNlYy5oZXJva3VhcHAuY29tLw==",
+  "URI2" : "aHR0cHM6Ly9iYWRsaXByZHNlYzIuaGVyb2t1YXBwLmNvbS8=",
+  "VERSION": "1.0.8",
+  "FORCE_UPDATE": true,
+  "ADV": [
+    {
+      "ADV_IMAGE": "https://www.inerton.in/badli/qa/image/01.png",
+      "ADV_URL": "https://www.inerton.in/"
+    },
+    {
+      "ADV_IMAGE": "https://www.inerton.in/badli/qa/image/02.png",
+      "ADV_URL": "https://www.inerton.in/"
+    }
+  ]
+}

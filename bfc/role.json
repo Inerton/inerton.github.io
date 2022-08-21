@@ -1,0 +1,114 @@
+{
+    "translations": {
+        "کاریگر": "Karigar",
+        "میتھا": "Metha",
+        "رچ": "Rach",
+        "حمّال": "Hammal",
+        "تراشن": "Tarashan",
+        "कारीगर": "Karigar",
+        "मेथा": "Metha",
+        "रच": "Rach",
+        "हम्माल": "Hammal",
+        "तराशन": "Tarashan",
+        "کاٹن": "Cotton",
+        "پالیسٹر": "Polyester",
+        "پی سی": "PC",
+        "رنگین": "Rangeen",
+        "कॉटन": "Cotton",
+        "पॉलिएस्टर": "Polyester",
+        "पीसी": "PC",
+        "रंगीन": "Rangeen"
+    },
+    "isLoomCountApplicable": {
+        "Karigar": true,
+        "Metha": true,
+        "Rach": false,
+        "Hammal": false,
+        "Tarashan": true
+    },
+    "Role": {
+        "en": {
+            "Karigar": "Karigar",
+            "Metha": "Metha",
+            "Rach": "Rach",
+            "Hammal": "Hammal",
+            "Tarashan": "Tarashan"
+        },
+        "ur": {
+            "Karigar": "کاریگر",
+            "Metha": "میتھا",
+            "Rach": "رچ",
+            "Hammal": "حمّال",
+            "Tarashan": "تراشن"
+        },
+        "hi": {
+            "Karigar": "कारीगर",
+            "Metha": "मेथा",
+            "Rach": "रच",
+            "Hammal": "हम्माल",
+            "Tarashan": "तराशन"
+        }
+    },
+    "JobType": {
+        "en": {
+            "Karigar": {
+                "Cotton": "Cotton",
+                "Polyester": "Polyester",
+                "PC": "PC",
+                "Rangeen": "Rangeen"
+            },
+            "Metha": {
+                "Metha": "Metha"
+            },
+            "Rach": {
+                "Rach": "Rach"
+            },
+            "Hammal": {
+                "Hammal": "Hammal"
+            },
+            "Tarashan": {
+                "Tarashan": "Tarashan"
+            }
+        },
+        "ur": {
+            "Karigar": {
+                "Cotton": "کاٹن",
+                "Polyester": "پالیسٹر",
+                "PC": "پی سی",
+                "Rangeen": "رنگین"
+            },
+            "Metha": {
+                "Metha": "میتھا"
+            },
+            "Rach": {
+                "Rach": "رچ"
+            },
+            "Hammal": {
+                "Hammal": "حمّال"
+            },
+            "Tarashan": {
+                "Tarashan": "تراشن"
+            }
+        },
+        "hi": {
+            "Karigar": {
+                "Cotton": "कॉटन",
+                "Polyester": "पॉलिएस्टर",
+                "PC": "पीसी",
+                "Rangeen": "रंगीन"
+            },
+            "Metha": {
+                "Metha": "मेथा"
+            },
+            "Rach": {
+                "Rach": "रच"
+            },
+            "Hammal": {
+                "Hammal": "हम्माल"
+            },
+            "Tarashan": {
+                "Tarashan": "तराशन"
+            }
+        }
+    }
+}
